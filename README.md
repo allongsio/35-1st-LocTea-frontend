@@ -83,9 +83,11 @@ https://youtu.be/grWXHlKwkyY<br><br>
       
     - 라이브러리를 사용하지 않고 useState를 활용하여 끝단이 있는 carousel 구현
      
+
   <li>
-  <img src="https://files.slack.com/files-pri/TH0U6FBTN-F03R3S4177H/________________________________2022-07-29______________5_19_55_adobeexpress.gif"/>
-  
+  <img src="https://user-images.githubusercontent.com/106016375/182029329-358175f4-de1c-4fd5-8fb7-c7cad65c7fb5.gif"/>
+
+
     - 1차 카테고리, 2차 카테고리 선택에 따라 상이한 제품군, 제품리스트 랜더링
     - 제품배열에 대한 탭 활성화 여부로 state변화, 제품 리스트업 순서 변경
     - BE로부터 상이한 제품데이터 획득, 제품 타입에 대한 버튼 클릭에 따라 해당되는 제품들만 선별적으로 호출
